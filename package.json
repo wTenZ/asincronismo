@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wTenZ/asincronismo/issues"
   },
-  "homepage": "https://github.com/wTenZ/asincronismo#readme"
+  "homepage": "https://github.com/wTenZ/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
